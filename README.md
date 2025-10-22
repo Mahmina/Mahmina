@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Mina! <br/><a href="https://github.com/Mahmina">Junior Web Developer | JavaScript & Python</a></h1>
 
-<!--
-**Mahmina/Mahmina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👩🏻‍💻 My Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Personal Website (HTML & CSS)</b>
+  - [Personal Website](https://github.com/Mahmina/personal-website)
+- <b>JavaScript</b>
+  - [Todo List](https://github.com/Mahmina/todo-list)
+- <b>Python</b>
+  - [Blog with users](https://github.com/Mahmina/blog-with-users)
+  - [Morse converter](https://github.com/Mahmina/morse-converter)
+  - [Job tracker](https://github.com/Mahmina/job-tracker)
+  - [Café finder](https://github.com/Mahmina/cafe-cortex)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👩🏻‍🎓 Certificates: </h2>
+
+- [100 Days of Code: The Complete Python Pro Bootcamp](https://ude.my/UC-73c71684-6f77-4432-93cd-298f5959ae60)
+
+
+<h2> 🤳What I'm currently busy with: </h2>
+
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking for an opportunity to learn more
