@@ -21,4 +21,4 @@
 <h2> 🤳What I'm currently busy with: </h2>
 
 - 🌱 I’m currently learning React.js
-- 👯 I’m looking for a job opportunity
+- 💼 I’m looking for a job opportunity
