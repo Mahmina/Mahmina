@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mina! <br/><a href="https://github.com/Mahmina">Junior Web Developer | JavaScript & Python</a></h1>
+<h1>Hi, I'm Mina! <br/><a href="https://github.com/Mahmina">Junior Web & Data Engineer | JavaScript, Python & SQL</a></h1>
 
 <h2>👩🏻‍💻 My Projects:</h2>
 
