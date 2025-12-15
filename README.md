@@ -2,10 +2,10 @@
 
 <h2>👩🏻‍💻 My Projects:</h2>
 
-- <b>Personal Website (HTML & CSS)</b>
-  - [Personal Website](https://github.com/Mahmina/personal-website)
 - <b>JavaScript</b>
+  - [Personal Website](https://github.com/Mahmina/personal-website)
   - [Todo List](https://github.com/Mahmina/todo-list)
+
 - <b>Python</b>
   - [Blog with users](https://github.com/Mahmina/blog-with-users)
   - [Morse converter](https://github.com/Mahmina/morse-converter)
